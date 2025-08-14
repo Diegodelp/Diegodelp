@@ -1,4 +1,4 @@
-# 👋 Hola, soy Diego Belotti - Hi, My name is Diego
+# 👋 Hola, soy Diego Belotti - Hi, My name is Diego Belotti
 
 Full Stack (Python · Node · React).
 - 🔗 Portfolio: [Haz Click Aqui - Click Here](https://belotti-diego.vercel.app/)
