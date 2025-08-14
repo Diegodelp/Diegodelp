@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy Diego Belotti - Hi, My name is Diego
 
-<!--
-**Diegodelp/Diegodelp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack (Python · Node · React).
+- 🔗 Portfolio: [Haz Click Aqui - Click Here](https://belotti-diego.vercel.app/)
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados - Highlight Proyects
+- Dental Clinic Manager — Software Managment for a Dental Clinic [Dentalist](https://www.dentalist.com.ar/)
+- Fetch IT — Software Web for own development agency - Usefull Proyect Manager Client/Agency . [FetchIT](https://fetch-it-dev.vercel.app/)
+- Ventra Manager — Software Web built for Stock Managment and Payment Integrations — [Ventra Manager](https://www.ventra-manager.com.ar/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech
+Python · Flask · FastAPI · Node.js · React · Next.js · OpenCV · Firestore · Supabase · Vercel
+
+## 💬 Contacto
+- Web: https://fetch-it-dev.vercel.app
+- Email: diegodelp22@gmail.com
