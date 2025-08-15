@@ -9,7 +9,7 @@ Full Stack (Python · Node · React).
 - Ventra Manager — Software Web built for Stock Managment and Payment Integrations — [Ventra Manager](https://www.ventra-manager.com.ar/)
 
 ## 🛠️ Tech
-Python · Flask · FastAPI · Node.js · React · Next.js · OpenCV · Firestore · Supabase · Vercel
+Python · Flask · FastAPI · Node.js · React · Next.js · OpenCV · Firestore · Supabase · Vercel - Cybersecurity Analyst
 
 ## 💬 Contacto
 - Web: https://fetch-it-dev.vercel.app
