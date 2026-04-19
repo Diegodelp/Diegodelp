@@ -6,7 +6,7 @@ Full Stack (Python · Node · React).
 ## 🚀 Proyectos destacados - Highlight Proyects
 - Dental Clinic Manager — Software Managment for a Dental Clinic [Dentalist](https://www.dentalist.com.ar/)
 - Fetch IT — Software Web for own development agency - Usefull Proyect Manager Client/Agency . [FetchIT](https://fetch-it-dev.vercel.app/)
-- Ventra Manager — Software Web built for Stock Managment and Payment Integrations — [Ventra Manager](https://www.ventra-manager.com.ar/)
+- Ventra Manager — Software Web built for Stock Managment and Payment Integrations — [Ventra Manager](https://ventra-manager-app.vercel.app/)
 
 ## 🛠️ Tech
 Python · Flask · FastAPI · Node.js · React · Next.js · OpenCV · Firestore · Supabase · Vercel - Cybersecurity Analyst
